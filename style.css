@@ -1,0 +1,18 @@
+h1 {
+    font-size: larger;
+    border-color: black;
+    border-width: 10px;
+    border-bottom:solid;
+    padding-bottom: 25px;
+    text-align: center;
+    margin: center;
+    font-size: xx-large;
+}
+body  {
+text-align: center;
+
+}
+img {
+	display: none;
+    margin-top: 10px;
+}
